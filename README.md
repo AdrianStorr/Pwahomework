@@ -45,8 +45,20 @@ SO THAT my account balance is accurate when I am traveling
   ## Contributers
   one
 
-  ## Test
-  test
+  ## Technology
+  HTML5
+- CSS3
+- Javascript
+- chart
+- Node.js
+- Express
+- Mongodb
+- Mongooes
+- MVC
+- IndexedDB
+- Service-worker
+- webmanifest
+- caches
 
   ## Question
   Contact me:
